@@ -1,5 +1,3 @@
-package br.com.aplicacao.telas;
-
 import java.awt.Color;
 import java.awt.FlowLayout;
 import java.awt.Font;
