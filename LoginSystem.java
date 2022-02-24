@@ -145,8 +145,7 @@ public class LoginSystem extends JFrame{
 	   
 	    
 	    public static void main(String[] args) {
-	        LoginSystem j = new LoginSystem();
-	        j.setVisible(true);
+	        new LoginSystem().setVisible(true);
 	  
 	    }
 	}
